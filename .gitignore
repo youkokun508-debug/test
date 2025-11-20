@@ -1,1 +1,4 @@
 TMP/todo.txt
+var/test.log
+var/*.log
+*.xml
